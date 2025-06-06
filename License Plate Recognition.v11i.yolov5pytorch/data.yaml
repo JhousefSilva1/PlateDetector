@@ -1,0 +1,6 @@
+train: C:/ProyectoDeGrado/Python IA/platesRecono/License Plate Recognition.v11i.yolov5pytorch/train/images
+val: C:/ProyectoDeGrado/Python IA/platesRecono/License Plate Recognition.v11i.yolov5pytorch/valid/images
+test: C:/ProyectoDeGrado/Python IA/platesRecono/License Plate Recognition.v11i.yolov5pytorch/test/images
+
+nc: 1
+names: ['License_Plate']
